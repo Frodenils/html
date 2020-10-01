@@ -14,5 +14,6 @@ html {
   }
 
   h1 {
-    color: #f54298
+    color: #f54298;
+    border: 5px outset #f54298;
   }
