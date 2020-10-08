@@ -1,19 +1,42 @@
-html {
-    background-color: #00ffaa;
-    font-size: 20px;
-  }
-  
-  ul {
-    background: #ff6666;
-    padding: 10px;
-    border: 2px solid black;
-  }
-  
-  li {
-    margin-left: 20px;
-  }
+.time {
+  border: 0px;
+  vertical-align: top;
+  position: relative;
+  top: -13px;
+  font-weight: lighter;
+  text-align: right;
 
-  h1 {
-    color: #f54298;
-    border: 5px outset #f54298;
-  }
+}
+.min5 {
+  height: 5px;
+}
+.min10 {
+  height: 10px;
+}
+.min15 {
+  height: 15px;
+}
+.min20 {
+  height: 20px;
+}
+.min25 {
+  height: 25px;
+}
+.min30 {
+  height: 30px;
+}
+.min35 {
+  height: 35px;
+}
+.min40 {
+  height: 40px;
+}
+.min45 {
+  height: 45px;
+}
+.min50 {
+  height: 50px;
+}
+.min55 {
+  height: 55px;
+}
