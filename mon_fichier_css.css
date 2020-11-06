@@ -3,9 +3,11 @@
   vertical-align: top;
   position: relative;
   top: -13px;
+  font-family: Calibri;
   font-weight: lighter;
   text-align: right;
 }
+
 .min5 {
   height: 5px;
 }
